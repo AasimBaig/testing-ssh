@@ -1,3 +1,7 @@
+class Car:
+    pass
+
+
 def process():
     print("Process is running :D")
     print("Git check")
